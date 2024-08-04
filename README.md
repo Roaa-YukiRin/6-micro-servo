@@ -32,7 +32,45 @@
 ![image](https://github.com/user-attachments/assets/c04d49c3-a949-4275-a395-2f4a4f0dde29)
 
 =================================================
-## نبدأ نحل مهمة 6 سثقرخ
+## نبدأ نحل مهمة 6 Servo ومن هنا نحتاج breadboard
+![image](https://github.com/user-attachments/assets/a4eaa51b-7fb5-4a53-bb5d-21dd813ba9d8)
+
+![image](https://github.com/user-attachments/assets/2f3e67e7-45b6-427b-aaa1-c0115279bc86)
+
+![image](https://github.com/user-attachments/assets/39880a4f-b877-4997-8430-322dc435bf19)
+
+![image](https://github.com/user-attachments/assets/55dc9dce-3fa9-498d-a429-8870e5eef1f7)
+
+![image](https://github.com/user-attachments/assets/733dfe81-9281-42f3-b8c6-6c7c729b2050)
+
+![image](https://github.com/user-attachments/assets/ff2f0273-86de-4c54-b8d3-b4e5e352e011)
+
+![image](https://github.com/user-attachments/assets/7d58fadd-57c8-4787-8804-0aacc0b99c75)
+
+![image](https://github.com/user-attachments/assets/4e1ff133-4a88-4ce9-968f-ae31d988588e)
+
+![image](https://github.com/user-attachments/assets/ee4ec46b-d469-4d2a-bcaa-49de42641def)
+
+![image](https://github.com/user-attachments/assets/65699ad9-3dcf-433d-98a0-61353318acc9)
+
+![image](https://github.com/user-attachments/assets/242ce2cf-8a58-46e2-8a75-bdc30a715a41)
+
+![image](https://github.com/user-attachments/assets/5ce68a84-4db6-4b0d-be55-df22bb505a94)
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
 
 
 
